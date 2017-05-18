@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "Otto Hofmann",
+    "url": "https://github.com/ohofmann2"
+  },
+  "bugs": "https://github.com/ohofmann2/typetext/issues",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+  "description": "Type text tool.",
+  "docs": "https://github.com/ohofmann2/typetext/readme.md",
+  "homepage": "http://github.com/ohofmann2/typetext/",
+  "keywords": [
+    "jquery-plugins",
+    "typetext"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "name": "typetext",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ohofmann2/typetext.git"
+  },
+  "title": "jQuery TypeText",
+  "version": "1.0.0",
+}
