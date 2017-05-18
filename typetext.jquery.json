@@ -6,7 +6,7 @@
   "bugs": "https://github.com/ohofmann2/typetext/issues",
   "dependencies": {
     "jquery": ">=1.4"
-  }
+  },
   "description": "Type text tool.",
   "docs": "https://github.com/ohofmann2/typetext/readme.md",
   "homepage": "http://github.com/ohofmann2/typetext/",
@@ -26,5 +26,5 @@
     "url": "https://github.com/ohofmann2/typetext.git"
   },
   "title": "jQuery TypeText",
-  "version": "1.0.0",
+  "version": "1.0.0"
 }
