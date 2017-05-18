@@ -1,21 +1,18 @@
 {
-  "name": "typetext",
-  "title": "jQuery TypeText",
-  "description": "Type text tool.",
-  "keywords": [
-    "jquery-plugins",
-    "typetext"
-  ],
-  "version": "3.2.0",
   "author": {
     "name": "Otto Hofmann",
     "url": "https://github.com/ohofmann2"
   },
-  "maintainers": [
-    {
-      "name": "Otto Hofmann",
-      "url": "https://github.com/ohofmann2"
-    }
+  "bugs": "https://github.com/ohofmann2/typetext/issues",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+  "description": "Type text tool.",
+  "docs": "https://github.com/ohofmann2/typetext/readme.md",
+  "homepage": "http://github.com/ohofmann2/typetext/",
+  "keywords": [
+    "jquery-plugins",
+    "typetext"
   ],
   "licenses": [
     {
@@ -23,11 +20,11 @@
       "url": "http://www.opensource.org/licenses/mit-license.php"
     }
   ],
-  "bugs": "https://github.com/ohofmann2/typetext/issues",
-  "homepage": "http://github.com/ohofmann2",
-  "docs": "https://github.com/ohofmann2/typetext/readme.md",
-  "download": "https://github.com/ohofmann2/typetext/archive/master.zip",
-  "dependencies": {
-    "jquery": ">=1.4"
-  }
+  "name": "typetext",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ohofmann2/typetext.git"
+  },
+  "title": "jQuery TypeText",
+  "version": "1.0.0",
 }
