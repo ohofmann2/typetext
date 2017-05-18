@@ -1,0 +1,36 @@
+.typetext-cursor-on:after {
+	content: "|";
+	margin-left: 2px;
+	opacity: 1;
+}
+
+.typetext-cursor-blink:after {
+	content: "|";
+	margin-left: 2px;
+    opacity: 1;
+    -webkit-animation: blink 0.9s infinite;
+    -moz-animation: blink 0.9s infinite;
+    animation: blink 0.9s infinite;
+}
+
+@keyframes blink{
+    0% { opacity:1; }
+    5% { opacity:1; }
+    50% { opacity:0; }
+    95% { opacity:1; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    5% { opacity:1; }
+    50% { opacity:0; }
+    95% { opacity:1; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    5% { opacity:1; }
+    50% { opacity:0; }
+    95% { opacity:1; }
+    100% { opacity:1; }
+}
